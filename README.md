@@ -37,6 +37,8 @@ python run_summarization.py <br>
 --single_pass=True 
 
 ## Citation
+
+```
 @inproceedings{zhao-etal-2021-sgg, <br>
     title = "{SGG}: Learning to Select, Guide, and Generate for Keyphrase Generation", <br>
     author = "Zhao Jing and Bao Junwei and Wang Yifan and Wu Youzheng and He Xiaodong and Zhou Bowen", <br>
@@ -45,3 +47,4 @@ python run_summarization.py <br>
     url = "https://www.aclweb.org/anthology/2021.naacl-main.455",
     pages = "5717--5726",
 }
+```
