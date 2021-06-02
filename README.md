@@ -1,6 +1,6 @@
 # SGG
 
-This repo provides the code for reproducing the experiments in SGG: Learning to Select, Guide, and Generate for Keyphrase Generation.
+This repo provides the code for reproducing the experiments in NAACL2021 paper: [SGG: Learning to Select, Guide, and Generate for Keyphrase Generation](https://www.aclweb.org/anthology/2021.naacl-main.455)
 
 <p align="center"><img src="/SGG.png" width=300></p>
 <p align="center"><i>Figure : Illustrations of SGG framework</i></p>
