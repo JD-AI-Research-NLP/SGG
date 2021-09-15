@@ -39,10 +39,10 @@ python run_summarization.py <br>
 ## Citation
 
 ```
-@inproceedings{zhao-etal-2021-sgg, <br>
-    title = "{SGG}: Learning to Select, Guide, and Generate for Keyphrase Generation", <br>
-    author = "Zhao Jing and Bao Junwei and Wang Yifan and Wu Youzheng and He Xiaodong and Zhou Bowen", <br>
-    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies", <br>
+@inproceedings{zhao-etal-2021-sgg,
+    title = "{SGG}: Learning to Select, Guide, and Generate for Keyphrase Generation", 
+    author = "Zhao Jing and Bao Junwei and Wang Yifan and Wu Youzheng and He Xiaodong and Zhou Bowen", 
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies", 
     year = "2021",
     url = "https://www.aclweb.org/anthology/2021.naacl-main.455",
     pages = "5717--5726",
