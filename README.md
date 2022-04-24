@@ -16,7 +16,7 @@ tensorflow-gpu version: 1.13
 python run_summarization.py <br>
 --mode=True <br>
 --coverage=False <br>
---enhanced_attnetion=True  # True=SGG, False=SG <br>
+--enhanced_attention=True  # True=SGG, False=SG <br>
 --data_path=dataset/testset_*  <br>
 --batch_size=64  <br>
 --vocab_path=dataset/vocab <br>
@@ -29,7 +29,7 @@ python run_summarization.py <br>
 python run_summarization.py <br>
 --mode=True <br>
 --coverage=False <br>
---enhanced_attnetion=True  # True=SGG, False=SG <br>
+--enhanced_attention=True  # True=SGG, False=SG <br>
 --data_path=dataset/testset_*  <br>
 --vocab_path=dataset/vocab <br>
 --log_root=SG  <br>
